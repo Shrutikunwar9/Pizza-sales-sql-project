@@ -145,4 +145,4 @@ LIMIT 3;
 
 The pizza sales data analysis provides valuable insights into the sales performance, customer preferences, and operational trends. The analysis reveals that a significant number of orders are placed, generating substantial revenue. The highest-priced pizza and the most common pizza size ordered highlight customer preferences. The top 5 most ordered pizza types and the total quantity of each pizza category ordered provide insights into popular choices. The distribution of orders by hour of the day and the category-wise distribution of pizzas help understand peak hours and popular categories. The average number of pizzas ordered per day and the top 3 most ordered pizza types based on revenue further emphasize customer behavior and preferences. These insights can be utilized to make informed business decisions, optimize operations, and enhance customer satisfaction.
 
-# THANK YOU FOR YOUR TIME
+## THANK YOU FOR YOUR TIME
